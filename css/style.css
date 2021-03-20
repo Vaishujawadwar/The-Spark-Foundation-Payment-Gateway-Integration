@@ -1,0 +1,39 @@
+.content{
+    background-image: url(https://i.pinimg.com/564x/e4/5b/e5/e45be55e6c7dd46d07bcdaae62be0a3e.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.texts{
+    margin-top: 100px;
+    font-weight: bolder;
+    color:white;
+}
+.about{
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.contact{
+    background-image: url(https://coincrunch.in/wp-content/uploads/2019/03/contact-us.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.donate{
+    background-image: url(https://i2.wp.com/blog.airfunding.net/wp-content/uploads/2019/07/donation-4019135_1920.jpg?resize=1024%2C594&ssl=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.taggs{
+    font-weight: bolder;
+}
+footer{
+    width: 100%;
+	left: 0px;
+	bottom: 0px;
+	position: absolute;
+}
