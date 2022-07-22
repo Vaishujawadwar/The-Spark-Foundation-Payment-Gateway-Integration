@@ -1,8 +1,5 @@
 # The-Spark-Foundation-Payment-Gateway-Integration
 
-You can visit my website here: 
-https://hard-wax.000webhostapp.com/index.php
-
 My youtube video link: 
 https://youtu.be/do-YJx1HmLM
 
